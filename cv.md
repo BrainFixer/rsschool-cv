@@ -18,11 +18,11 @@
 
 ### **Briefly about myself:**
 
-I'm 46 years old. I have been developing intelligent measuring systems for over 20 years at SE "Kharkivstandartmetrologiya". At first I was engaged exclusively in mechanical and electronic parts. And I did the design of electronic circuits, printed circuit boards, designs using CNC processing, 3D printing etc. But with the evolution of software parts, as well as hardware parts of measuring systems, I had to study their software too.
+I'm 46 years old. I have been developing intelligent measuring systems for over 20 years at [SE "Kharkivstandartmetrologiya"][metr-link]. At first I was engaged exclusively in mechanical and electronic parts. And I did the design of electronic circuits, printed circuit boards, designs using CNC processing, 3D printing etc. But with the evolution of software parts, as well as hardware parts of measuring systems, I had to study their software too.
 
 At now Now if the system which I'm developing must be intelligent, I use **C/C++**, **MicroPython** languages ​​​​to write firmware. If it should have a "pretty face", I use **HTML/CSS/JS** and sometimes **Vue**. If it's need to access the system from Internet, I use **NodeJS** and **ExpressJS**. And If my system have to collect a "big data", I use **SQL** (**sqLite** most often). For processing measuring data on a desktop I usually use **C#** language and simple **Python**.
 
-Almost 9 years ago I started teaching children what I know myself. At first it was electronics and robotics, but then the focus shifted to programming - basically, frontend. At the moment I am a teacher, curator and helper in several online schools. These include GeekSchool, Result.School and Learn Hub.
+Almost 9 years ago I started teaching children what I know myself. At first it was electronics and robotics, but then the focus shifted to programming - basically, frontend. At the moment I am a teacher, curator and helper in several online schools. These include [GeekSchool][gs-link], [Result.School][rs-link] and [Learn Hub][lh-link].
 Currently I am considering making a full transition to IT and hope that my learning abilities and experience will make this possible.
 
 ---
@@ -46,7 +46,7 @@ Currently I am considering making a full transition to IT and hope that my learn
 
 ### **Code example:**
 
-**"Stop gninnipS My sdroW!" Kata from CodeWars:**
+**"Stop gninnipS My sdroW!" Kata from [CodeWars][cw-link]:**
 
 _Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present._
 
@@ -92,3 +92,8 @@ function spinWords(words) {
 - Ukrainian - Native
 
 [tg-link]: https://t.me/brainfixerr
+[metr-link]: https://khsms.com/ru/
+[gs-link]: https://geekschool.com.ua/
+[rs-link]: http://result.school/
+[lh-link]: https://learnhub.ru/
+[cw-link]: https://www.codewars.com/kata/5264d2b162488dc400000001/javascript
