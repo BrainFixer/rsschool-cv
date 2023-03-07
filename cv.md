@@ -1,5 +1,7 @@
 # **Yuri M. Karelin**
 
+<img src="photo.jpg" alt="Photo" width="200"/>
+
 ---
 
 ## **Intelligent measuring systems engineer**
